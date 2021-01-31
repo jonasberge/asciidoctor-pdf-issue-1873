@@ -1,0 +1,14 @@
+[grid="none",frame="none"]
+|===
+|Foo |Bar
+
+|Tasty
+|Strong
+
+|Fluffy
+|Sweet
+
+|Muscular
+|Tall
+
+|===
